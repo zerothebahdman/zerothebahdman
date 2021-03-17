@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codewithdiv
+- 👋 Hi, I’m Divinewill Okoro
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on Laravel projects
