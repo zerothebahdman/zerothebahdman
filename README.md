@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Divinewill Okoro
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on Laravel projects
+- 💻 I'm a software engineer 
+- 👀 I’m interested in Backend engineering 
+- 💞️ I’m looking to collaborate on Laravel, vue.js and nuxt.js projects
 - 📫 How to reach me info.ezecodes@gmail.com
 
 <!---
