@@ -8,6 +8,13 @@
 - Fun Fact - Given time, there's nothing I can't learn.
 - If you `REST` you `RUST` cause `REST` is for the faint hearted 😎.
 
+<p align='center'>
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdiv&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=codewithdiv)
+</p>
+
 <!---
 codewithdiv/codewithdiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
