@@ -11,7 +11,7 @@
 
 <p align='center'>
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdiv&theme=algolia)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdiv&theme=algolia)-->
 
  <!--gn="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=codewithdivolia&count_private=true&line_height=27&langs_count=7"> -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithdiv&show_icons=true&theme=algolia&count_private=true&line_height=27">
