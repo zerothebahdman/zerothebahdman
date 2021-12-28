@@ -1,4 +1,4 @@
-## HI, I'm Divinewill ☺
+## HI, I'm Divinewill ZERO ☺
 - 👋 Welcome to my profile. I'm a Software Engineer 💻 performing backend magic.
 - 💻 I use: `JavaScript`, `PHP`, `Laravel`, `Lumen`, `Node JS`, `Express`, `Git`, `MySQL`, `MongoDB`, `Mongoose`, `Apache`, `Nginx`, `PostgresSQL`, `Heroku`, `Digital Ocean`.
 - 🔋 I'm currently learning Data Structures and Algorithm's and how to crush technical interviews, I'm also learning the blockchain technology and how to build smart contract's with Solidity.
