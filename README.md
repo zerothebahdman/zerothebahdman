@@ -1,4 +1,4 @@
-## HI, I'm ZERO a Software Engineer performing backend magic.
+## Hi, I'm ZERO a Software Engineer performing backend magic.
 
 - 💻 I use: `JavaScript`, `PHP`, `Laravel`, `Lumen`, `Node JS`, `Express`, `Git`, `MySQL`, `MongoDB`, `Mongoose`, `Apache`, `Nginx`, `PostgresSQL`, `Heroku`, `Digital Ocean`, `GitHub Actions`.
 - 🌏 I'm mostly active within the PHP and JavaScript Community.
