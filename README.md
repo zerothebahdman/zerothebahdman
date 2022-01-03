@@ -1,7 +1,6 @@
 ## HI, I'm ZERO a Software Engineer 💻 performing backend magic.
 
-- 💻 I use: `JavaScript`, `PHP`, `Laravel`, `Lumen`, `Node JS`, `Express`, `Git`, `MySQL`, `MongoDB`, `Mongoose`, `Apache`, `Nginx`, `PostgresSQL`, `Heroku`, `Digital Ocean`.
-- 🔋 I'm currently learning Data Structures and Algorithm's and how to crush technical interviews, I'm also learning the blockchain technology and how to build smart contract's with Solidity.
+- 💻 I use: `JavaScript`, `PHP`, `Laravel`, `Lumen`, `Node JS`, `Express`, `Git`, `MySQL`, `MongoDB`, `Mongoose`, `Apache`, `Nginx`, `PostgresSQL`, `Heroku`, `Digital Ocean`, `GitHub Actions`.
 - 🌏 I'm mostly active within the PHP and JavaScript Community.
 - 👀 I’m interested in Backend engineering and Blockchain Technology.
 - 🤝 Ping me to collaborate on any cool projects on any of the above stack or if you want to get wooped in PES or FIFA 😎.
