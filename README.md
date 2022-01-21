@@ -2,7 +2,7 @@
 
 <!-- - 💻 I use: `JavaScript`, `TypeScript`,`PHP`, `Laravel`, `Lumen`, `Node JS`, `Express`, `Git`, `MySQL`, `MongoDB`, `Redis`, `Apache`, `Nginx`, `PostgresSQL`, `Heroku`, `Digital Ocean`, `GitHub Actions`. -->
 - 🌏 I'm mostly active within the PHP and JavaScript Community.
-- 👀 I’m interested in Backend engineering and Blockchain Technology.
+- 👀 I’m interested in Backend engineering in general.
 - 🤝 Ping me to collaborate on any cool projects on any of the above stack or if you want to get wooped in PES or FIFA 😎.
 - 📫 How to reach me dev.zerothread@gmail.com.
 - Fun Fact - Given time, there's nothing I can't learn.
