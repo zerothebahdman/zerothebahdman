@@ -8,16 +8,16 @@
 - Fun Fact - Given time, there's nothing I can't learn.
 - If you `REST` you `RUST` cause `REST` is for the faint hearted 😎.
 
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=codewithdiv&theme=algolia&count_private=true&line_height=27&langs_count=7">-->
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZeroThread&theme=algolia&count_private=true&line_height=27&langs_count=7">-->
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zerothread&show_icons=true&theme=algolia&count_private=true&line_height=27">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeroThread&show_icons=true&theme=algolia&count_private=true&line_height=27">
 <p align='center'>
     
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroThread&theme=algolia) -->
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroThread&hide=vue,html,css,pug)](https://github.com/ZeroThread/github-readme-stats) -->
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerothread&theme=algolia&langs_count=10&layout=compact)](https://github.com/codewithdiv/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroThread&theme=algolia&langs_count=10&layout=compact)](https://github.com/ZeroThread/github-readme-stats)
     
     
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=codewithdiv)
@@ -25,6 +25,6 @@
 </p>
 
 <!---
-codewithdiv/codewithdiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ZeroThread/ZeroThread is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
