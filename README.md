@@ -1,6 +1,6 @@
 ## Hi, I'm ZERO a Software Engineer performing backend magic.
 
-<!-- - 💻 I use: `JavaScript`, `TypeScript`,`PHP`, `Laravel`, `Lumen`, `Node JS`, `Express`, `Git`, `MySQL`, `MongoDB`, `Redis`, `Apache`, `Nginx`, `PostgresSQL`, `Heroku`, `Digital Ocean`, `GitHub Actions`. -->
+- 💻 I use: `JavaScript`, `TypeScript`,`PHP`, `Laravel`, `Lumen`, `Node JS`, `Express`, `Git`, `MySQL`, `MongoDB`, `Redis`, `Apache`, `Nginx`, `PostgresSQL`, `Heroku`, `Digital Ocean`, `GitHub Actions`.
 - 🌏 I'm mostly active within the PHP and JavaScript Community.
 - 👀 I’m interested in Backend engineering in general.
 - 🚀 I’m currently learning how to become a better Software Engineer.
