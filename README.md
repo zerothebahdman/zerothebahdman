@@ -10,7 +10,7 @@
 - If you `REST` you `RUST` cause `REST` is for the faint hearted 😎.
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithdiv&show_icons=true&theme=algolia&count_private=true&line_height=27">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithdiv&show_icons=true&theme=algolia&count_private=true&line_height=27">
 <p align='center'>
     
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroThread&theme=algolia) -->
