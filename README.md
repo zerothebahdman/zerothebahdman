@@ -14,9 +14,9 @@
 <p align='center'>
     
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroThread&theme=algolia) -->
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroThread&hide=vue,html,css,pug)](https://github.com/ZeroThread/github-readme-stats) -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdiv&theme=algolia&hide=html,css,pug&layout=compact)](https://github.com/codewwithdiv/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdiv&theme=algolia&langs_count=10&layout=compact)](https://github.com/codewithdiv/github-readme-stats)
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdiv&theme=algolia&langs_count=10&layout=compact)](https://github.com/codewithdiv/github-readme-stats) -->
     
     
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=codewithdiv)
