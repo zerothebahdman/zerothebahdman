@@ -24,7 +24,6 @@
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdiv&theme=algolia&langs_count=10&layout=compact)](https://github.com/codewithdiv/github-readme-stats) -->
     
-    
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=codewithdiv)
 [![wakatime](https://wakatime.com/badge/user/e045c475-1441-4df4-87fa-b18630ebfa69.svg)](https://wakatime.com/@e045c475-1441-4df4-87fa-b18630ebfa69)
 </p>
