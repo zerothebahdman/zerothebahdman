@@ -20,7 +20,7 @@
 <p align='center'>
     
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroThread&theme=algolia) -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdiv&theme=algolia&hide=html,css,pug,vue,handlebars,blade&layout=compact)](https://github.com/codewwithdiv/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdiv&theme=algolia&hide=html,css,pug,vue,handlebars&layout=compact)](https://github.com/codewwithdiv/github-readme-stats)
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdiv&theme=algolia&langs_count=10&layout=compact)](https://github.com/codewithdiv/github-readme-stats) -->
     
