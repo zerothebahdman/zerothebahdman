@@ -16,11 +16,6 @@
 - If you `REST` you `RUST` cause `REST` is for those faint of heart 😎.
 
 ![Divinwill GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithdiv&show_icons=true&theme=algolia&count_private=true&line_height=30&hide=prs,&include_all_commits=true)
- 
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithdiv&show_icons=true&theme=algolia&count_private=true&line_height=27">
-<p align='center'> -->
-  
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroThread&theme=algolia) -->
 
 
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdiv&theme=algolia&hide=html,css,pug,vue,handlebars&layout=compact)](https://github.com/codewithdiv/github-readme-stats)  -->
@@ -30,6 +25,8 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=codewithdiv)
 [![wakatime](https://wakatime.com/badge/user/e045c475-1441-4df4-87fa-b18630ebfa69.svg)](https://wakatime.com/@e045c475-1441-4df4-87fa-b18630ebfa69)
 </p>
+
+
 <!---
 ZeroThread/ZeroThread is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
