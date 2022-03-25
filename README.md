@@ -15,9 +15,13 @@
 
 - If you `REST` you `RUST` cause `REST` is for those faint of heart 😎.
 
-![Divinwill GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithdiv&show_icons=true&theme=algolia&count_private=true&line_height=30&hide=prs,&include_all_commits=true)
+<!-- ![Divinwill GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithdiv&show_icons=true&theme=algolia&count_private=true&line_height=30&hide=prs,&include_all_commits=true) -->
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdiv&theme=algolia)](https://git.io/streak-stats) -->
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithdiv&show_icons=true&theme=algolia&count_private=true&line_height=27">
+ </a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdiv&theme=algolia)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithdiv&theme=algolia&hide=html,css,pug,vue,handlebars,ejs&layout=compact)](https://github.com/codewithdiv/github-readme-stats) 
 
