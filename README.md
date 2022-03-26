@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Backend engineering in general.
 
-- 🚀 I’m currently learning how to become a better Software Engineer.
+- 🚀 I’m currently learning how to become a smarter Software Engineer.
 
 - 🤝 Ping me to collaborate on any cool projects on any of the above stack or if you want to get wooped in PES or FIFA 😎.
 
