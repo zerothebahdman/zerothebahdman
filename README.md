@@ -15,11 +15,11 @@
 
 - If you `REST` you `RUST` cause `REST` is for those faint of heart 😎.
 
-![Divinwill GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithdiv&show_icons=true&theme=algolia&count_private=true&line_height=30&hide=prs,issues,contributed,&include_all_commits=true)
-
-<!-- <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithdiv&show_icons=true&theme=algolia&count_private=true&line_height=30&include_all_commits=true">
- </a> -->
+<!-- ![Divinwill GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithdiv&show_icons=true&theme=algolia&count_private=true&line_height=30&hide=prs,issues,contributed,&include_all_commits=true)
+ -->
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithdiv&show_icons=true&theme=algolia&count_private=true&line_height=30hide=prs,issues,contributed&include_all_commits=true">
+ </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdiv&theme=algolia)](https://git.io/streak-stats)
 
