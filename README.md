@@ -14,12 +14,12 @@
 - Fun Fact - Given time, there's nothing I can't learn.
 
 - If you `REST` you `RUST` cause `REST` is for those faint of heart 😎.
+<!-- 
+![Divinwill GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithdiv&show_icons=true&theme=algolia&count_private=true&line_height=30&hide=prs,issues,contributed,&include_all_commits=true) -->
 
-![Divinwill GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithdiv&show_icons=true&theme=algolia&count_private=true&line_height=30&hide=prs,issues,contributed,&include_all_commits=true)
-
-<!-- <a>
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithdiv&show_icons=true&theme=algolia&count_private=true&line_height=30hide=prs,issues,contributed&include_all_commits=true">
- </a> -->
+ </a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithdiv&theme=algolia)](https://git.io/streak-stats)
 
