@@ -1,6 +1,5 @@
 ## Hi, I'm ZERO a Software Bahdman performing backend magic.
 
-
 <!-- - 💻 I use: `JavaScript`, `TypeScript`,`PHP`, `Laravel`, `Lumen`, `Node JS`, `Express`, `NestJS`, `Git`, `MySQL`, `MongoDB`, `Redis`, `Apache`, `Nginx`, `PostgresSQL`, `Heroku`, `Digital Ocean`, `GitHub Actions`. -->
 - 🌏 I'm mostly active within the PHP and JavaScript Community.
 
