@@ -1,7 +1,5 @@
 ## Hi, I'm ZERO a Software Bahdman performing backend magic.
 
-
-
 <!-- - 💻 I use: `JavaScript`, `TypeScript`,`PHP`, `Laravel`, `Lumen`, `Node JS`, `Express`, `NestJS`, `Git`, `MySQL`, `MongoDB`, `Redis`, `Apache`, `Nginx`, `PostgresSQL`, `Heroku`, `Digital Ocean`, `GitHub Actions`. -->
 
 - 🌏 I'm mostly active within the PHP and JavaScript Community.
@@ -18,11 +16,11 @@
 
 - If you `REST` you `RUST` cause `REST` is for those faint of heart 😎.
 
- <!-- ![Divinwill GitHub stats](https://github-readme-stats.vercel.app/api?username=zerothebahdman&show_icons=true&theme=algolia&count_private=true&line_height=30&hide=prs,issues,contributed,&include_all_commits=true) -->
+![Divinwill GitHub stats](https://github-readme-stats.vercel.app/api?username=zerothebahdman&show_icons=true&theme=algolia&count_private=true&line_height=30&hide=prs,issues,contributed,&include_all_commits=true)
 
- <a>
+ <!-- <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zerothebahdman&show_icons=true&theme=algolia&count_private=true&line_height=30&hide=prs,issues,contributed&include_all_commits=true">
- </a>
+ </a>  -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zerothebahdman&theme=algolia)](https://git.io/streak-stats)
 
