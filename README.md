@@ -4,7 +4,6 @@
 
 - 🌏 I'm mostly active within the PHP and JavaScript Community.
 
-
 - 👀 I’m interested in Backend engineering in general.
 
 - 🚀 I’m currently learning how to become a smarter Software Engineer.
