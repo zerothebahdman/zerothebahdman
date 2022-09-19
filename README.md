@@ -23,6 +23,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zerothebahdman&show_icons=true&theme=algolia&count_private=true&line_height=30&hide=prs,issues,contributed&include_all_commits=true">
  </a>  -->
 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zerothebahdman&theme=algolia)](https://git.io/streak-stats)
 
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerothebahdman&theme=algolia&hide=html,css,pug,vue,handlebars,ejs&layout=compact)](https://github.com/codewithdiv/github-readme-stats) -->
