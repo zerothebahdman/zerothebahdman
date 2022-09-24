@@ -3,8 +3,6 @@
 
 <!-- - 💻 I use: `JavaScript`, `TypeScript`,`PHP`, `Laravel`, `Lumen`, `Node JS`, `Express`, `NestJS`, `Git`, `MySQL`, `MongoDB`, `Redis`, `Apache`, `Nginx`, `PostgresSQL`, `Heroku`, `Digital Ocean`, `GitHub Actions`. -->
 
-
-
 - 🌏 I'm mostly active within the PHP and JavaScript Community.
 
 - 👀 I’m interested in Backend engineering in general.
