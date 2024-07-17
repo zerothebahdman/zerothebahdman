@@ -8,8 +8,7 @@
 
 #### I'm Divinewill Okoro (alias zero), a Backend Engineer
 
-- ⚙️ I use: `Nodejs`, `Express`, `JavaScript`, `Typescript`, `Nestjs`, `Docker`, `gRPC`, `php`, `laravel`, `GraphQL`, `MongoDb`, `MySQL`, `Redis`, `PostgresSQL`, `Redis`, `Kafka`, `RabbitMQ`, `Firebase`, `Jest`, `Github Actions`
-- 📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/divinewill-zero/)
+- 📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/zerothebahdman/)
 - ⚡️ Fun fact: Given time, there's nothing I can't learn.
 - ⧜ If you `REST` you `RUST` cause `REST` is for those faint of heart 😎.
 <p align='center'>
